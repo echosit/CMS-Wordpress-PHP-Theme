@@ -4,6 +4,7 @@ This repository is still a work in progress. This is theme development with Word
 
 ## Tools
 
-- HTML, CSS
+- JavaScript, HTML, CSS
+- Git, Github
 - Font Awesome
 - VSCode Live Server Plugin
