@@ -7,4 +7,7 @@ This repository is still a work in progress. This is theme development with Word
 - JavaScript, HTML, CSS
 - Git, Github
 - Font Awesome
-- VSCode Live Server Plugin
+- Live Server (VSCode Plugin)
+- XAMPP
+- Local
+- Contact Form 7 (WordPress Plugin)
