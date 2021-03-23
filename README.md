@@ -1,6 +1,6 @@
-# CMS-Wordpress-PHP-Theme
+# Wordpress-Blog
 
-This repository is still a work in progress. This is theme development with WordPress and PHP.
+HTML, CSS, JavaScript files for the wordpress blog structure and styling.
 
 ## Tools
 
@@ -8,6 +8,3 @@ This repository is still a work in progress. This is theme development with Word
 - Git, Github
 - Font Awesome
 - Live Server (VSCode Plugin)
-- XAMPP
-- Local
-- Contact Form 7 (WordPress Plugin)
